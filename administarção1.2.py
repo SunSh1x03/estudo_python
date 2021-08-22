@@ -19,3 +19,5 @@ else:
         print("Você errou! O seu chute foi maior que o número secreto!")
     elif (menor):
         print("Você errou! O seu chute foi menor que o número secreto!")
+ 
+print("Fim do jogo!")
